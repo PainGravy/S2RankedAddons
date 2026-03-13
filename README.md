@@ -2,4 +2,4 @@ All credit for original repo goes to @ZSroach, Download his project here: https:
 
 
 
-[Full change list](GravsUpdate_changes_only.md)
+[Full change list](gravychangelog.md)
